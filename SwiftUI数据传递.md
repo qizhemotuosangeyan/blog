@@ -129,7 +129,7 @@ struct ContentView_Previews: PreviewProvider {
 
 
 
-![屏幕录制2020-04-14 下午6.02.45.2020-04-14 18_03_32](SwiftUI数据传递.assets/屏幕录制2020-04-14 下午6.02.45.2020-04-14 18_03_32.gif)
+![change5to10](SwiftUI数据传递.assets/change5to10.gif)
 
 
 
@@ -193,7 +193,7 @@ struct ContentView_Previews: PreviewProvider {
 
 
 
-![屏幕录制2020-04-14 下午7.44.22.2020-04-14 19_45_17](SwiftUI数据传递.assets/屏幕录制2020-04-14 下午7.44.22.2020-04-14 19_45_17.gif)
+![john24](SwiftUI数据传递.assets/john24.gif)
 
 - 想比@State解决了哪些问题呢：这里借用喵神(https://onevcat.com)的一句话：
 
@@ -258,7 +258,7 @@ struct ContentView_Previews: PreviewProvider {
 //在父View中的被观察对象(被@ObservedObject包装的john)在子View中使用，只需要在子View中用@EnviromentObject 包装同类型的变量并在调用子View的时候使用.environmentObject(john)显式的说明
 ```
 
-![屏幕录制2020-04-14 下午8.14.46.2020-04-14 20_15_21](SwiftUI数据传递.assets/屏幕录制2020-04-14 下午8.14.46.2020-04-14 20_15_21.gif)
+![john](SwiftUI数据传递.assets/john.gif)
 
 ## 总结
 
