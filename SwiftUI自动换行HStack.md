@@ -1,4 +1,4 @@
-有时候，我们会遇到类似这样的需求![截屏2020-04-16 下午10.13.14](SwiftUI%E8%87%AA%E5%8A%A8%E6%8D%A2%E8%A1%8CHStack.assets/%E6%88%AA%E5%B1%8F2020-04-16%20%E4%B8%8B%E5%8D%8810.13.14.png)，其中一种实现方式就是对alignmentGuide的灵活运用，**如果您不太清楚刚刚这么名字的意思，我推荐您先看看我的这篇文章**，算是alignmentGuide的基础
+有时候，我们会遇到类似这样的需求![截屏2020-04-16 下午10.13.14](SwiftUI%E8%87%AA%E5%8A%A8%E6%8D%A2%E8%A1%8CHStack.assets/%E6%88%AA%E5%B1%8F2020-04-16%20%E4%B8%8B%E5%8D%8810.13.14.png)，其中一种实现方式就是对alignmentGuide的灵活运用，**如果您不太清楚刚刚这个名字的意思，我推荐您先看看我的这篇文章**，算是alignmentGuide的基础
 
 博客地址：[alignmentGuide基础](https://github.com/qizhemotuosangeyan/blog/blob/master/SwiftUI-alignmentGuide-自定义布局基础.md)
 
