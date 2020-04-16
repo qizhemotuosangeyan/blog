@@ -232,7 +232,9 @@ extension HorizontalAlignment {
 1. 确定他是水平alignment还是竖直alignment
 2. 提供隐式alignmentGuide的默认值（对于没有显式alignmentGuide的视图）
 
-接下来的比较有趣了，通过使用高度作为默认的alignment，它会产生有趣的效果![截屏2020-04-15 下午12.41.38](SwiftUI-alignmentGuide-%E8%87%AA%E5%AE%9A%E4%B9%89%E5%B8%83%E5%B1%80%E5%9F%BA%E7%A1%80.assets/%E6%88%AA%E5%B1%8F2020-04-15%20%E4%B8%8B%E5%8D%8812.41.38.png)
+接下来的比较有趣了，通过使用高度作为默认的alignment，它会产生有趣的效果
+
+![截屏2020-04-15 下午12.41.38](SwiftUI-alignmentGuide-%E8%87%AA%E5%AE%9A%E4%B9%89%E5%B8%83%E5%B1%80%E5%9F%BA%E7%A1%80.assets/%E6%88%AA%E5%B1%8F2020-04-15%20%E4%B8%8B%E5%8D%8812.41.38.png)
 
 ```swift
 struct CustomView: View {
