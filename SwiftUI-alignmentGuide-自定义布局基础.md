@@ -1,6 +1,14 @@
-**翻译再创作自swiftui-lab，侵删。**
+### 写在前面
 
-**您可以查看英文原版：**https://swiftui-lab.com/alignment-guides/
+翻译再创作自swiftui-lab，侵删。
+
+您可以查看英文原版：
+https://swiftui-lab.com/alignment-guides/
+
+⚠️：翻译过程中对alignment保持了英语，可以翻译成对齐，目的为了和我们常说的“对齐”区分，alignmentGuide可以翻译成“对齐指导”，这里我也保留了alignmentGuide英语。Container在文章中指的是HStack或者VStack或者ZStack等等类似的容器，也保留了Container原文，View有时也写作视图，无区别。
+原文链接：https://blog.csdn.net/qq_42568693/article/details/105566599
+
+## 正文
 
 AlignmentGuide功能强大，但通常未得到充分利用的**布局工具**。在许多情况下，它可以帮助我们避免复杂的选择，例如(anchor preferences)，正如您所看到的，对齐方式的更改也可以很简单的设置为动画
 
