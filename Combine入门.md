@@ -1,4 +1,6 @@
-写在前面⚠️：大部分翻译自https://medium.com/ios-os-x-development/learn-master-%EF%B8%8F-the-basics-of-combine-in-5-minutes-639421268219，我添加了一些细枝末节的东西更便于读者理解
+写在前面⚠️：大部分翻译自https://medium.com/ios-os-x-development/learn-master-%EF%B8%8F-the-basics-of-combine-in-5-minutes-639421268219
+
+我添加了一些细枝末节的东西更便于读者理解
 
 # 1. Publishers
 
@@ -228,4 +230,6 @@ final class SomeViewController: UIViewController {
 
 恭喜🎉，你已经学习了Combine的基础知识，happy code every day!😊
 
-如果这篇文章对您有所帮助，欢迎您捐赠一小笔给原作者https://medium.com/ios-os-x-development/learn-master-%EF%B8%8F-the-basics-of-combine-in-5-minutes-639421268219，如果您希望我继续翻译类似的文章，口头鼓励下我就ok了～
+如果这篇文章对您有所帮助，欢迎您捐赠一小笔给原作者https://medium.com/ios-os-x-development/learn-master-%EF%B8%8F-the-basics-of-combine-in-5-minutes-639421268219
+
+如果您希望我继续翻译类似的文章，口头鼓励下我就ok了～
