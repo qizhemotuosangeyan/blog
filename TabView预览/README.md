@@ -4,4 +4,4 @@ TabView预览
 
 可以在XCode上方切换Scheme查看在各个平台上的预览效果
 
-![image-20240522174412867](/Users/qianqian/Library/Application Support/typora-user-images/image-20240522174412867.png)
+![image-20240522175048347](./image-20240522175048347.png)
