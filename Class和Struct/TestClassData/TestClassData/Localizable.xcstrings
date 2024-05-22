@@ -1,0 +1,27 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "class age1 + 1" : {
+
+    },
+    "class age2 + 1" : {
+
+    },
+    "class model age1: %lld" : {
+
+    },
+    "class model age2: %lld" : {
+
+    },
+    "objectWillChage.send()" : {
+
+    },
+    "struct age + 1" : {
+
+    },
+    "struct model age: %lld" : {
+
+    }
+  },
+  "version" : "1.0"
+}
